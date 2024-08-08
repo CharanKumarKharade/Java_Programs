@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc83f93c-d321-4985-9996-bf5af154064f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/OddOrEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse.java" afterDir="false" />
-    </list>
+    <list default="true" id="fc83f93c-d321-4985-9996-bf5af154064f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +41,8 @@
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.OddOrEven.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.Reverse.executor": "Run",
     "Application.Run.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
