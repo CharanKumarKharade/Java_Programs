@@ -1,4 +1,4 @@
-//imported java utility package 
+//imported java utility package
 import java.util.*;
 class Factorial
 {
