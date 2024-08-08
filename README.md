@@ -4,4 +4,6 @@ A quick reference towards Java and Sample programs
 
 ---Program 1: Factorial of an number---
 ---Program 2: Odd or Even number---
+---Program 3: Palindrome number---
+---Program 4: Reverse an number---
 ----------------------------------------------------
