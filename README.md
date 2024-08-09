@@ -6,5 +6,6 @@ A quick reference towards Java and Sample programs
 ---Program 2: Odd or Even number---</br>
 ---Program 3: Palindrome number---</br>
 ---Program 4: Reverse an number---</br>
----Program 5: Buzz number---</br>
+---Program 5:Exceptional Handling---</br>
+---Program 6: Buzz number---</br>
 ----------------------------------------------------
