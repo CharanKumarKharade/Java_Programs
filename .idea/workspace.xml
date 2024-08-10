@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc83f93c-d321-4985-9996-bf5af154064f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Projects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuzzNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.BuzzNumber">
+    <configuration name="BuzzNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuzzNumber" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="java" />
@@ -88,6 +96,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Run" />
+      <item itemvalue="Application.BuzzNumber" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Reverse" />
       <item itemvalue="Application.OddOrEven" />
@@ -95,6 +104,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuzzNumber" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.Factorial" />
