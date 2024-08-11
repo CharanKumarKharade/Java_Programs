@@ -6,4 +6,5 @@
 ----Factorial <br>
 ----OddOrEven<br>
 ----Linear Search<br>
+----Binary Search<br>
 -----
