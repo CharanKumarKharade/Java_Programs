@@ -5,4 +5,5 @@
 ----Exceptional Handling<br>
 ----Factorial <br>
 ----OddOrEven<br>
+----Linear Search<br>
 -----

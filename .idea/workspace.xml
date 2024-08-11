@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc83f93c-d321-4985-9996-bf5af154064f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BuzzNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Run.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Run.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +25,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CharanKumarKharade&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CharanKumarKharade/Java_Programs.git",
+    "accountId": "9372e289-1e28-40d9-9b02-331502440370"
+  }
+}]]></component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -37,28 +58,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddOrEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Run.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Devaraj/Desktop/Projects/java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.OddOrEven.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.Run.executor": "Run",
+    "Application.Search.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Devaraj/Desktop/Projects/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.BuzzNumber">
+}]]></component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="C:\Users\Devaraj\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
+        <option name="reportGuid" value="eb4ce63f-34f6-43ee-ad24-4cb19e49c528" />
+        <option name="reportName" value="java/qodana/2024-08-11" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\Devaraj\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="eb4ce63f-34f6-43ee-ad24-4cb19e49c528" reportId="java/qodana/2024-08-11" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LinearSearch">
     <configuration name="BuzzNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuzzNumber" />
       <module name="java" />
@@ -67,14 +106,15 @@
       </method>
     </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Factorial" />
-      <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OddOrEven" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearch" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,8 +127,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse" />
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Search" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,19 +138,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Run" />
+      <item itemvalue="Application.LinearSearch" />
+      <item itemvalue="Application.Search" />
       <item itemvalue="Application.BuzzNumber" />
       <item itemvalue="Application.Palindrome" />
-      <item itemvalue="Application.Reverse" />
-      <item itemvalue="Application.OddOrEven" />
       <item itemvalue="Application.Factorial" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.Search" />
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.BuzzNumber" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.OddOrEven" />
       </list>
     </recent_temporary>
   </component>
@@ -161,12 +203,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Factorial.java</url>
-          <line>4</line>
+          <line>3</line>
           <properties class="Factorial">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/linearSearch.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
